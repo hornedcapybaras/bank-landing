@@ -1,0 +1,41 @@
+* {
+    font-family: "Roboto", 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #1F2937;
+}
+
+.navigation {
+    display: flex;
+    border: transparent 5px;
+    justify-content: space-around;
+}
+
+.nav-element {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+    height: 20px;
+    width: auto;
+    padding: 2em;
+    border: 10px;
+    background-color: #51637e;
+}
+
+.hero-text > h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.hero-text > p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+section > h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
